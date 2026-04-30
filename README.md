@@ -51,8 +51,3 @@ Screenshots
 <img width="393" height="883" alt="Screenshot 1" src="https://github.com/user-attachments/assets/bffebd29-63a7-4c13-aaed-8fa2d8d13a28" />
 <img width="398" height="885" alt="Screenshot 2" src="https://github.com/user-attachments/assets/5acf9205-0f70-497b-bba0-d64af043df7f" />
 <img width="398" height="881" alt="Screenshot 3" src="https://github.com/user-attachments/assets/dce09f15-7feb-4922-b2f7-b96971237305" />
-
-
-
-
-Screenshots
