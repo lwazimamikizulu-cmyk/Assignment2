@@ -1,5 +1,5 @@
 # Assignment2
-#Life Hack or Urban Myth App (For First-Time Mommys)
+Life Hack or Urban Myth App (For First-Time Moms)
 Overview
 The Life Hack or Urban Myth App is an androis application developed using Kotlin in Android Studio.
 
